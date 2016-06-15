@@ -3,8 +3,8 @@
 # 読書本  
 * 著: 高橋 征義, 後藤 裕蔵  
 * 監修: まつもと ゆきひろ  
-* ページ数: 484 
-* [Amazon ![たのしいRuby](https://images-na.ssl-images-amazon.com/images/I/515jBUQhvcL._SX351_BO1,204,203,200_.jpg)](https://www.amazon.co.jp/dp/B01C804DO8/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+* ページ数: 484   
+[![たのしいRuby](https://images-na.ssl-images-amazon.com/images/I/515jBUQhvcL._SX351_BO1,204,203,200_.jpg)](https://www.amazon.co.jp/dp/B01C804DO8/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
 # 開催
 |日時|実績|
